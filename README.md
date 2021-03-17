@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there
+
+I'm Code & Anti-code!<br>
+3D Engine/Graphics Programmer by profession... I love Science, Art, Photography, Psychology, Astronomy, Rock Climbing, Football⚽️, Drawing and Monkeys!
 
 <!--
 **jatobu/jatobu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
